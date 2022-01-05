@@ -1,0 +1,16 @@
+const { MessageEmbed } = require("discord.js") 
+module.exports = { 
+    name: "",
+    alt: [],
+    category: "",
+    description: "",
+    usage: "",
+    userPerms: [""],
+    botPerms: [""],
+
+go: (client, message, args) => {
+
+    
+
+},
+}
